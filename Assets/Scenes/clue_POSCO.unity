@@ -380,12 +380,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uB2E4\uC74C\uC73C\uB85C\uB294\n'\uC774\uD654 \uC2A4\uB9C8\uD2B8 \uB77C\uC6B4\uC9C0'\uB85C
-    \n\uAC00\uBCF4\uC790!!\n\n\n\n\uC774\uD654 \uC2A4\uB9C8\uD2B8 \uB77C\uC6B4\uC9C0\uB294\n\uD3EC\uC2A4\uCF54\uAD00
-    B1\uCE35\uC5D0 \uC788\uC5B4!"
+  m_text: "\uB2E4\uC74C\uC73C\uB85C\uB294\n'\uCEF4\uD4E8\uD130 \uC2E4\uC2B5\uC2E4'\uB85C
+    \n\uAC00\uBCF4\uC790!!\n\n\n\n\uCEF4\uD4E8\uD130 \uC2E4\uC2B5\uC2E4\uC740\n\uD3EC\uC2A4\uCF54\uAD00
+    1\uCE35\uC5D0 \uC788\uC5B4!"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: c39494f4aefc5e147bd3ec906af1d4ab, type: 2}
-  m_sharedMaterial: {fileID: -540647549016530262, guid: c39494f4aefc5e147bd3ec906af1d4ab, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 29c18e9aae5f44140a9ed1cafd077c18, type: 2}
+  m_sharedMaterial: {fileID: 6571072341484190199, guid: 29c18e9aae5f44140a9ed1cafd077c18, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
